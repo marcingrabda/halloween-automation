@@ -29,11 +29,11 @@ GPIO26 (37) (38) GPIO20
 
 ## Connections
 ### PIR Sensor
-Red - 4
-Black - 14
-White - 11
+* Red - 4
+* Black - 14
+* White - 11
 
 ### Relay
-Red - 2
-Black - 6
-White - 23
+* Red - 2
+* Black - 6
+* White - 23
