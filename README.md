@@ -1,7 +1,7 @@
 # Halloween Automation
 
 ## Hardware
-# Pinout 
+### Pinout 
 ```
 Raspberry Pi 2B rev 1.1
 
@@ -27,13 +27,13 @@ GPIO26 (37) (38) GPIO20
    GND (39) (40) GPIO21
 ```
 
-## Connections
-### PIR Sensor
+### Connections
+#### PIR Sensor
 * Red - 4
 * Black - 14
 * White - 11
 
-### Relay
+#### Relay
 * Red - 2
 * Black - 6
 * White - 23
